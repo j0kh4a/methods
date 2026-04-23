@@ -151,11 +151,3 @@ trafficLight.Duration = double.Parse(Console.ReadLine()!);
 Console.WriteLine();
 trafficLight.ChangeColor();
 
-Console.WriteLine("Traffic light color changed.");
-
-
-
-
-Console.WriteLine("wtf");
-
-Console.WriteLine("ts is realyy ez");
